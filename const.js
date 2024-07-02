@@ -280,7 +280,7 @@ export const apps = [
       {
         id: "vallemagico",
         order: 3,
-        is_show: true,
+        is_show: false,
         thumbnail: "./assets/herramientas-digitales/vallemagico.png",
         bg:
           "./assets/herramientas-digitales/vallemagico_bg.png",
@@ -291,7 +291,7 @@ export const apps = [
       {
         id: "vallemagicosi",
         order: 4,
-        is_show: true,
+        is_show: false,
         thumbnail: "./assets/herramientas-digitales/vallemagicosi.png",
         bg:
           "./assets/herramientas-digitales/vallemagicosi_bg.png",
