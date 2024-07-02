@@ -302,7 +302,7 @@ export const apps = [
       {
         id: "sapere",
         order: 5,
-        is_show: true,
+        is_show: false,
         thumbnail: "./assets/herramientas-digitales/sapere.png",
         bg:
           "./assets/herramientas-digitales/sapere_bg.png",
@@ -324,7 +324,7 @@ export const apps = [
       {
         id: "canvassi",
         order: 7,
-        is_show: true,
+        is_show: false,
         thumbnail: "./assets/herramientas-digitales/canvassi.png",
         bg:
           "./assets/herramientas-digitales/canvassi_bg.png",
