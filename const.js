@@ -313,7 +313,7 @@ export const apps = [
       {
         id: "saperesi",
         order: 6,
-        is_show: true,
+        is_show: false,
         thumbnail: "./assets/herramientas-digitales/saperesi.png",
         bg:
           "./assets/herramientas-digitales/saperesi_bg.png",
